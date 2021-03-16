@@ -14,5 +14,10 @@
 2. 실행결과에 URL링크가 서버에서 HTTP 응답코드를 반환해 구글맵이 실행되지 않는다
 
 
+- 참고자료
+https://www.youtube.com/watch?v=dLFXs9hRZKQ&list=PLRx0vPvlEmdDFrKp_fbh4KUBjPzmvc9AF
+
+
+
 ![자바 구글맵연동](https://user-images.githubusercontent.com/51732365/111141883-61291300-85c7-11eb-891f-7e5292dd2922.PNG)
 
